@@ -130,6 +130,3 @@ Geef me nu alleen die prompt. Zodra ik die invul en terugstuur, ga je pas aan de
 **© Gene Vangampelaere - De AI-Fluisteraar**
 *Deze prompts zijn vrij te gebruiken. Een verwijzing naar het boek wordt gewaardeerd.*
 
-```
-
-```
