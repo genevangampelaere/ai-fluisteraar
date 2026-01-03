@@ -2,7 +2,7 @@
 
 Welkom bij de officiële repository behorend bij het boek **"De AI-Fluisteraar"**.
 
-In deze repository vind je de **7 Meester-templates** en **[de Golden-prompts]([url](https://github.com/genevangampelaere/ai-fluisteraar/blob/main/GoldenPrompts.md))** die in het boek worden besproken. Dit zijn geen simpele chat-vragen, maar geavanceerde prompt-engineering frameworks die zijn ontworpen om Large Language Models (zoals GPT-4, Claude 3.5 en Gemini) aan te sturen met maximale precisie.
+In deze repository vind je de **7 Meester-templates** en **[de Golden-prompts](https://github.com/genevangampelaere/ai-fluisteraar/blob/main/GoldenPrompts.md)** die in het boek worden besproken. Dit zijn geen simpele chat-vragen, maar geavanceerde prompt-engineering frameworks die zijn ontworpen om Large Language Models (zoals GPT-4, Claude 3.5 en Gemini) aan te sturen met maximale precisie.
 
 > **Motto:** *"Stop met chatten. Begin met engineeren."*
 
