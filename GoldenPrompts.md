@@ -32,6 +32,24 @@ Tone of Voice: Nuchter, direct, menselijk en met een vleugje zelfspot.
 
 ```
 
+```text
+You are a senior copywriter who hates corporate jargon and 'empty promises'.
+
+Task: Write a LinkedIn post about [Topic/News, e.g. our new software update].
+
+STURDY CONSTRAINTS (Do not ignore):
+
+1. Do NOT use emojis (except a maximum of 1 at the end).
+
+2. The following words are strictly forbidden: 'game-changer', 'innovative', 'next level', 'pride', 'passion', 'unburden', 'empower'.
+
+3. Maximum 150 words.
+
+4. Focus on the concrete problem we solve for the client, not on our features.
+
+Tone of Voice: Down-to-earth, direct, human, and with a touch of self-mockery.
+```
+
 ---
 
 ## Oefening 2: De Strategische Beslissing 🤔
@@ -53,6 +71,22 @@ Wat zijn de 3 grootste redenen om dit NIET te doen? (Denk aan: regelgeving, verb
 
 STAP 3: HET ADVIES
 Geef nu pas je definitieve advies. Is dit een 'No-brainer', een 'Twijfelgeval' of een 'Niet doen'? Onderbouw dit met de punten uit stap 1 en 2.
+
+```
+
+```text
+I am considering the following decision: [Your Investment/Choice, e.g., installing solar panels on our roof].
+
+Do NOT give a direct answer. You are required to follow this step-by-step plan and write out each step:
+
+STEP 1: ANALYSIS
+Calculate (or estimate) the costs versus the benefits in the short and long term.
+
+STEP 2: THE DEVIL'S ADVOCATE
+What are the 3 biggest reasons NOT to do this? (Think of: regulations, hidden costs, technology becoming obsolete, alternatives).
+
+STEP 3: THE ADVICE
+Only now give your final advice. Is this a 'No-brainer', a 'Doubtful case', or a 'Don't do it'? Substantiate this with the points from steps 1 and 2.
 
 ```
 
@@ -82,6 +116,29 @@ Geef een samenvatting. Als deze drie mensen moeten stemmen, gaat het idee dan do
 
 ```
 
+```text
+I have the following idea: [Describe your idea].
+
+Analyze this idea from the perspective of three specific personas. Stay strictly within your role.
+
+1. The Strict CFO:
+
+Look purely at costs, ROI, and financial risks. Be critical and frugal.
+
+2. The Visionary Marketer:
+
+Look at opportunities, brand value, and the future. Be enthusiastic but strategic.
+
+3. The Operations Manager:
+
+Look at the execution. Is this feasible? How much time does it take? Where does it go wrong in practice?
+
+SYNTHESIS:
+Provide a summary. If these three people have to vote, will the idea proceed?
+
+````
+
+
 ---
 
 ## Oefening 4: De Hallucinatie-Check 🔎
@@ -102,6 +159,21 @@ Stap 3: Beantwoord deze vragen onafhankelijk (gebruik je interne kennis of zoek 
 Stap 4: Geef aan welke zinnen in de originele tekst mogelijk onjuist of onnauwkeurig zijn en stel een correctie voor.
 
 ```
+
+
+```text
+Here is a text:
+[Paste your text here]
+
+I want to verify that the factual claims in this text are correct.
+
+Step 1: Identify any claims in the text that are based on facts, dates, years or regulations.
+Step 2: Generate a verification question for each claim to check if it is true.
+Step 3: Answer these questions independently (use your internal knowledge or search the web).
+Step 4: Indicate which sentences in the original text may be incorrect or inaccurate and propose a correction.
+
+```
+
 
 ---
 
@@ -124,6 +196,23 @@ Schrijf de OPTIMALE PROMPT die ik aan jou moet geven om dit doel te bereiken.
 Geef me nu alleen die prompt. Zodra ik die invul en terugstuur, ga je pas aan de slag met de uitvoer.
 
 ```
+
+```text
+I want to achieve the following goal: [e.g.: Create a complete lesson plan for the Digital Ethics course / A Python script to merge Excel files].
+
+I do not know exactly what information you need to do this perfectly.
+
+Your task:
+
+Write the OPTIMAL PROMPT that I need to give you to achieve this goal.
+
+* Think about structure, constraints, target audience, and format.
+* Create placeholders [like this one] in that prompt where I need to fill in the details.
+
+Just give me that prompt now. Once I fill it in and send it back, only then will you start working on the execution.
+
+```
+
 
 ---
 
